@@ -1,0 +1,263 @@
+<xml>
+  <navigation type="customtabs" backgroundColor="#F7FCFF" backgroundImage="" contentOverlap="" itemsPosition="top" textStyle="0" textSize="10" textFont="" iosStyleNavigation="false" enableHeader="">
+    <items>
+      <item icon="icon-MLM-Pro.jpg" text="Tips" isTransparent="" textColor="#000000" selectedTextColor="#FF0000" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="icon-video@2x.png" text="Video" isTransparent="" textColor="#000000" selectedTextColor="#FF0000" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="icon-notebook@2x.png" text="Books" isTransparent="" textColor="#000000" selectedTextColor="#FF0000" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="index.png" text="Consult" isTransparent="" textColor="#000000" selectedTextColor="#FF0000" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+    </items>
+  </navigation>
+  <targetplatform simulator="Nexus4">Android</targetplatform>
+  <template price="199.99" id="blankandroid1" scaleWebPagesToBaseResolution="false" topadtype="none" bottomadtype="admob" globalLogo="" isUniversalApp="false" fbnadsheight="300" fbnabannerheight="100" interstitialadtype="none" />
+  <prop id="appname" title="App Name">Network Marketing Pro</prop>
+  <prop id="tab1text" title="Tab1 Text">
+  </prop>
+  <prop id="tab1icon" title="Tab1 Icon">
+  </prop>
+  <prop id="tab2text" title="Tab2 Text">
+  </prop>
+  <prop id="tab2icon" title="Tab2 Icon">
+  </prop>
+  <prop id="tab3text" title="Tab3 Text">
+  </prop>
+  <prop id="tab3icon" title="Tab3 Icon">
+  </prop>
+  <prop id="tab4text" title="Tab4 Text">
+  </prop>
+  <prop id="tab4icon" title="Tab4 Icon">
+  </prop>
+  <planname>Basic</planname>
+  <page id="NewPage1.html" type="rss" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topad="no" bottomad="no" topadtype="none" bottomadtype="none" dynamicdata="false" jsonurl="" kind="html" />
+  <androidapptype>0</androidapptype>
+  <androidcategory>0</androidcategory>
+  <androidpromovideo>
+  </androidpromovideo>
+  <page id="watchout1.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="7thingsavoid2.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="rightmlm3.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="leadgeneration4.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="trainingmaterial.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="duplication.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <hostedresources>
+  </hostedresources>
+  <restrictedaccess>
+    <feature id="geofences" enabled="true" />
+    <feature id="pushnotifications" enabled="true" />
+    <feature id="announcements" enabled="true" />
+    <feature id="calendar" enabled="true" />
+    <feature id="coupon" enabled="true" />
+    <feature id="loyalty" enabled="true" />
+    <feature id="productorder" enabled="true" />
+    <feature id="map" enabled="true" />
+  </restrictedaccess>
+  <rateapp appleid="" rateatlaunch="no" rateatrelaunch="no" message="" cancelmessage="" remindmessage="" actionmessage="" />
+  <ads allowUsingAdvertisingId="false" />
+  <admobpublisher id="ca-app-pub-7936628531269011/5698539086" interstitialUnitId="" />
+  <doubleclickpublisher unitId="" />
+  <pollfish apiKey="" padding="0" position="na" />
+  <revmobappid id="" />
+  <scads refreshRate="30" />
+  <googleanalyticsid id="" />
+  <localizablelanguage value="en" />
+  <paypalappid id="" />
+  <fbapp apikey="" />
+  <androidAppLicensing enabled="false" publicKey="" />
+  <apkExpansionFiles enabled="false" />
+  <androidInAppBilling enabled="false" />
+  <android installLocation="auto" />
+  <pdftron licenseKey="" />
+  <rotationapp>false</rotationapp>
+  <webView bouncesEnabled="false" hideLoadingAnimation="false" externalSiteZoomEnabled="true" />
+  <sharepointclient url="" username="" password="" />
+  <appstorelink>
+  </appstorelink>
+  <googleMaps androidApiV2Key="" />
+  <webapp statusBarStyle="default" iconsStyle="precomposed" offlineModeEnabled="false" inAppLinks="false" />
+  <locationServices>
+    <inUseDescription>
+    </inUseDescription>
+    <alwaysDescription>
+    </alwaysDescription>
+  </locationServices>
+  <inAppSettings>
+    <setting id="forceSync" enabled="false" />
+    <setting id="clearResources" enabled="false" />
+    <setting id="restoreInAppPurchase" enabled="false" />
+  </inAppSettings>
+  <androidcontentratingcategory>0</androidcontentratingcategory>
+  <description>All%20Networker%20should%20know</description>
+  <promotext>All%20in%20one%20Pro%20Advise</promotext>
+  <androidcontentratingemail>johnwei0331@gmail.com</androidcontentratingemail>
+  <androidC2DM enabled="false" altEnabled="false" />
+  <androidpermissions>
+    <permission name="android.permission.INTERNET" enabled="true" />
+    <permission name="android.permission.ACCESS_COARSE_LOCATION" enabled="false" />
+    <permission name="android.permission.ACCESS_FINE_LOCATION" enabled="true" />
+    <permission name="android.permission.WRITE_EXTERNAL_STORAGE" enabled="false" />
+    <permission name="android.permission.ACCESS_NETWORK_STATE" enabled="true" />
+    <permission name="android.permission.READ_PHONE_STATE" enabled="false" />
+    <permission name="android.permission.RECORD_AUDIO" enabled="false" />
+    <permission name="android.permission.CAMERA" enabled="false" />
+  </androidpermissions>
+  <androidversion>2.0</androidversion>
+  <androidversioncode>11</androidversioncode>
+  <androidbundlename>com.jvsmobileappssolution.networkmarketingpro</androidbundlename>
+  <androidshortappname>Network Marketing Pro</androidshortappname>
+  <syncenabled>true</syncenabled>
+  <page id="tab2.html" type="mobileyoutube" kind="html" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" youtubeApiKey="NeJ7XMB0FlrPlmzrjDPsp0xuSVgF19w/IuLPACdEj/zJRVEwwSJpRWxJScDn3gJ6" title="" logo="" shownavbar="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="index.html" type="html" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="" logo="" shownavbar="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <file id="appStyles.xml" newsfile="yes">
+  </file>
+  <file id="trainingmaterial.html" newsfile="yes" />
+  <file id="tab2.html" newsfile="yes" />
+  <file id="icon-video@2x.png" newsfile="yes" />
+  <file id="icon-albums@2x.png" newsfile="yes" />
+  <file id="7thingsavoid2.html" newsfile="yes" />
+  <file id="duplication.html" newsfile="yes" />
+  <file id="index.html" newsfile="yes" />
+  <file id="leadgeneration4.html" newsfile="yes" />
+  <file id="rightmlm3.html" newsfile="yes" />
+  <file id="icon-144.png" newsfile="yes" />
+  <file id="johnweilife.html" newsfile="yes" />
+  <file id="template.qbiki" newsfile="yes" />
+  <file id="background_menu.jpg" newsfile="yes" />
+  <file id="background_ipad.jpeg" newsfile="yes" />
+  <file id="back.jpg" newsfile="yes" />
+  <file id="backgroundlogo.png" newsfile="yes" />
+  <file id="content.png" newsfile="yes" />
+  <file id="contentmenupagearrow.png" newsfile="yes" />
+  <file id="contentmenupageitem1.png" newsfile="yes" />
+  <file id="cover.png" newsfile="yes" />
+  <file id="icon-36.png" newsfile="yes" />
+  <file id="icon-72.png" newsfile="yes" />
+  <file id="icon-96.png" newsfile="yes" />
+  <file id="icon.png" newsfile="yes" />
+  <page id="tab3.html" type="gridmenu" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <file id="index.png" newsfile="yes" />
+  <file id="Default.png" newsfile="yes" />
+  <page id="7step-plan-networking.html" type="classicletter" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" interstitialadtype="none" title="" logo="" shownavbar="yes" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <file id="7step-plan-networking.html" newsfile="yes" />
+  <baiduMaps baiduMapsApiKeyAndroid="" baiduMapsApiKeyiOS="" />
+  <file id="magazinemenupagearrow.png" newsfile="yes" />
+  <file id="mobileyoutube.css" newsfile="yes" />
+  <file id="style.css" newsfile="yes" />
+  <file id="tab3.html" newsfile="yes" />
+  <file id="store_feature_graphic.png" newsfile="yes" />
+  <page id="MLM-Blog-Traffic.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <file id="icon-notebook@2x.png" newsfile="yes" />
+  <page id="tab4.html" type="form" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="rich-dad-chapter-page.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" kind="html" />
+  <page id="richdad.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" kind="html" />
+  <page id="richdadpoordad-c1.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" kind="html" hasreviewhtmlkey="no" />
+  <page id="richdadpoordad-c10.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" kind="html" hasreviewhtmlkey="no" />
+  <page id="richdadpoordad-c2.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="yes" zoomEnabled="true" loadWebUrlsInSameWebView="false" hideLoadingAnimation="false" backgroundColor="" />
+  <page id="richdadpoordad-c3.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="yes" zoomEnabled="true" loadWebUrlsInSameWebView="false" hideLoadingAnimation="false" backgroundColor="" />
+  <page id="richdadpoordad-c4.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="yes" zoomEnabled="true" loadWebUrlsInSameWebView="false" hideLoadingAnimation="false" backgroundColor="" />
+  <page id="richdadpoordad-c5.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" kind="html" hasreviewhtmlkey="no" />
+  <page id="richdadpoordad-c6.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" kind="html" hasreviewhtmlkey="no" />
+  <page id="richdadpoordad-c7.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" kind="html" hasreviewhtmlkey="no" />
+  <page id="richdadpoordad-c8.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" kind="html" hasreviewhtmlkey="no" />
+  <page id="richdadpoordad-c9.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" kind="html" hasreviewhtmlkey="no" />
+  <page id="richdadpoordad-summarycharacter.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" kind="html" />
+  <page id="richdadpoordad.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" hideLoadingAnimation="false" backgroundColor="" />
+  <page id="TNGR-Chapter-1.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-10.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-11.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-12.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-13.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-14.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-2.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-3.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-4.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-5.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-7.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-chapter-8.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter-9.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Chapter6.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Introduction.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="TNGR-Page-Content.html" type="magazinemenu" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <file id="MLM-Blog-Traffic.html" newsfile="yes" />
+  <file id="rich-dad-chapter-page.html" newsfile="yes" />
+  <file id="richdad.html" newsfile="yes" />
+  <file id="richdadpoordad-c1.html" newsfile="yes" />
+  <file id="richdadpoordad-c10.html" newsfile="yes" />
+  <file id="richdadpoordad-c2.html" newsfile="yes" />
+  <file id="richdadpoordad-c3.html" newsfile="yes" />
+  <file id="richdadpoordad-c4.html" newsfile="yes" />
+  <file id="richdadpoordad-c5.html" newsfile="yes" />
+  <file id="richdadpoordad-c6.html" newsfile="yes" />
+  <file id="richdadpoordad-c7.html" newsfile="yes" />
+  <file id="richdadpoordad-c8.html" newsfile="yes" />
+  <file id="richdadpoordad-c9.html" newsfile="yes" />
+  <file id="richdadpoordad-summarycharacter.html" newsfile="yes" />
+  <file id="richdadpoordad.html" newsfile="yes" />
+  <file id="tab2-1.html" newsfile="yes" />
+  <file id="tab4.html" newsfile="yes" />
+  <file id="TNGR-Chapter-1.html" newsfile="yes" />
+  <file id="TNGR-Chapter-10.html" newsfile="yes" />
+  <file id="TNGR-Chapter-11.html" newsfile="yes" />
+  <file id="TNGR-Chapter-12.html" newsfile="yes" />
+  <file id="TNGR-Chapter-13.html" newsfile="yes" />
+  <file id="TNGR-Chapter-14.html" newsfile="yes" />
+  <file id="TNGR-Chapter-2.html" newsfile="yes" />
+  <file id="TNGR-Chapter-3.html" newsfile="yes" />
+  <file id="TNGR-Chapter-4.html" newsfile="yes" />
+  <file id="TNGR-Chapter-5.html" newsfile="yes" />
+  <file id="TNGR-Chapter-7.html" newsfile="yes" />
+  <file id="TNGR-chapter-8.html" newsfile="yes" />
+  <file id="TNGR-Chapter-9.html" newsfile="yes" />
+  <file id="TNGR-Chapter6.html" newsfile="yes" />
+  <file id="TNGR-Introduction.html" newsfile="yes" />
+  <file id="TNGR-Page-Content.html" newsfile="yes" />
+  <file id="angie.html" newsfile="yes" />
+  <file id="Lessbrown.html" newsfile="yes" />
+  <file id="Marc.html" newsfile="yes" />
+  <file id="Gopro.html" newsfile="yes" />
+  <file id="rich-dad-poor-dad-160x228.jpg" newsfile="yes" />
+  <file id="richdadpoordad160x180.jpg" newsfile="yes" />
+  <file id="Think-and-Grow-Rich-160x228.jpg" newsfile="yes" />
+  <file id="thebizof21stcentury-cover.PNG" newsfile="yes" />
+  <file id="thebizof21stcentury-cover-160x228.png" newsfile="yes" />
+  <page id="21st-pdf.html" type="pdfreader" kind="native" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" textDirection="ltr" scrollDirection="vertical" title="" logo="" shownavbar="yes" interstitialadtype="none">
+    <pdffile>The-Business-of-the-21st-Century-Book.pdf</pdffile>
+  </page>
+  <file id="The-Business-of-the-21st-Century-Book.pdf" newsfile="yes" />
+  <file id="21st-pdf.html" newsfile="yes" />
+  <file id="icon-MLM-Pro.jpg" newsfile="yes" />
+  <file id="pdffile.pdf" newsfile="yes" />
+  <file id="watchout1.html" newsfile="yes" />
+  <page id="tom-hopkin.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" interstitialadtype="none" />
+  <file id="tom-hopkin.html" newsfile="yes" />
+  <file id="launching.gif" newsfile="yes" />
+  <targetdevicesize>100</targetdevicesize>
+  <page id="calendar1.html" type="calendar" kind="native" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" categories="" categorycolors="" title="" logo="" shownavbar="yes" interstitialadtype="none" />
+  <file id="calendar1.html.json" newsfile="yes" />
+  <file id="Articles.html" newsfile="yes" />
+  <page id="Articles.html" type="magazinemenu" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="none" transitionsound="" hidetabbaratpush="no" interstitialadtype="none" />
+  <page id="tab1.html" type="pwamenu" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="multipodcast1.html" type="multipodcast" module="SCPodcasts" kind="native" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" headerImageInput="" title="" logo="" shownavbar="yes" hidetabbaratpush="no" interstitialadtype="none">
+    <feed url="https://nmpro.libsyn.com/rss" />
+    <feed url="https://firstyearinnetworkmarketing.podbean.com/feed.xml" />
+    <feed url="https://cmgroup.podbean.com/feed.xml" />
+  </page>
+  <file id="calendar1.html" newsfile="yes" />
+  <file id="multipodcast1.html" newsfile="yes" />
+  <file id="tab1.html" newsfile="yes" />
+  <file id="background.png" newsfile="yes" />
+  <file id="backup-icon.png" newsfile="yes" />
+  <file id="calendar_icon.png" newsfile="yes" />
+  <file id="call_icon.png" newsfile="yes" />
+  <file id="choose-icon.png" newsfile="yes" />
+  <file id="default-icon.png" newsfile="yes" />
+  <file id="default-icon_.png" newsfile="yes" />
+  <file id="fast-icon.png" newsfile="yes" />
+  <file id="magazine_icon.png" newsfile="yes" />
+  <file id="notes_icon.png" newsfile="yes" />
+  <file id="offline-icon.png" newsfile="yes" />
+  <file id="question_icon.png" newsfile="yes" />
+  <file id="reminder_icon.png" newsfile="yes" />
+  <file id="time_icon.png" newsfile="yes" />
+  <file id="266.jpg" newsfile="yes" />
+  <airpush appId="0" apiKey="" interstitialAdType="" />
+  <skippables adUnitIdSki="" interstitialAdUnitIdSki="" />
+</xml>
